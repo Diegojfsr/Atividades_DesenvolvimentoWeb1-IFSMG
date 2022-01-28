@@ -1,15 +1,15 @@
-Instituto Federal de Educação Ciência e Tecnologia do Sudeste de Minas
-Gerais – Campus Muriaé
-Tecnologia em Gestão da Tecnologia da Informação
-Desenvolvimento Web I
-Professor: Diego Rossi
-Nome: Diego Jefferson S. Rosa
+<h6> Instituto Federal de Educação Ciência e Tecnologia do Sudeste de Minas
+<h6> Gerais – Campus Muriaé </h6>
+<p> Tecnologia em Gestão da Tecnologia da Informação
+Desenvolvimento Web I </p6>
+<p> Professor: Diego Rossi </p>
+<p> Nome: Diego Jefferson S. Rosa </p>
  
  
  
-Esse código foi utilizado para a criação de um web site pessoal/Portfólio.
-Desenvolvido com HTML e CSS para fins didáticos, e posteriormente servirá como um site pessoal.
-Para esse exercício, optei por iniciar um novo projeto, do qual eu pudesse fazer uso para divulgar meus projetos pessoais.
+<p> Esse código foi utilizado para a criação de um web site pessoal/Portfólio. </p>
+<p> Desenvolvido com HTML e CSS para fins didáticos, e posteriormente servirá como um site pessoal. </p>
+<p> Para esse exercício, optei por iniciar um novo projeto, do qual eu pudesse fazer uso para divulgar meus projetos pessoais. </p>
  
 Na construção desse sistema foi utilizado como base HTML e CSS e alguns imports em JS.
 O projeto possui:
