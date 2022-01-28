@@ -1,7 +1,7 @@
 <h1> Instituto Federal de Educação Ciência e Tecnologia do Sudeste de Minas
  Gerais – Campus Muriaé </h1>
-<h3> Tecnologia em Gestão da Tecnologia da Informação
-Desenvolvimento Web I </h3>
+<h3> Tecnologia em Gestão da Tecnologia da Informação </h3>
+<h3> Desenvolvimento Web I </h3>
 <h4> Professor: Diego Rossi </h4>
 <h4> Nome: Diego Jefferson S. Rosa </h4>
  
